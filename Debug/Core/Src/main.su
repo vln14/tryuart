@@ -1,0 +1,12 @@
+../Core/Src/main.c:81:5:main	8	static
+../Core/Src/main.c:143:6:SystemClock_Config	120	static
+../Core/Src/main.c:193:13:MX_COMP2_Init	8	static
+../Core/Src/main.c:226:13:MX_LPTIM1_Init	8	static
+../Core/Src/main.c:260:13:MX_LPUART1_UART_Init	8	static
+../Core/Src/main.c:294:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:317:13:LC_Init_GPIO	56	static
+../Core/Src/main.c:375:6:LPUART_Transmit_String	16	static
+../Core/Src/main.c:379:6:LcSensorInit	8	static
+../Core/Src/main.c:390:6:lcmeasure	16	static
+../Core/Src/main.c:412:6:lctransmit	48	static
+../Core/Src/main.c:431:6:Error_Handler	8	static,ignoring_inline_asm
